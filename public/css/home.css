@@ -1,0 +1,18 @@
+#card-direita {
+    width: 18rem;
+}
+#card-esquerda {
+    width: 18rem;
+}
+
+
+
+@media (min-width: 600px) {
+    #card-direita{
+        width: 500px;
+    }
+    #card-esquerda {
+        width: 500px;
+        height: 600px;
+    }
+}

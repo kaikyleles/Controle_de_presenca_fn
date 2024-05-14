@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "br.com.sescminastm.www.twa",
+                     "sha256_cert_fingerprints": ["EA:59:51:D7:72:EA:5D:16:5C:8C:AE:F1:D0:5D:E4:26:04:5C:A3:87:8F:F0:7D:DD:31:FE:81:59:24:25:42:63"] }
+      }
+]
